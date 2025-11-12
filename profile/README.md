@@ -5,7 +5,7 @@
 [![GitHub License](https://img.shields.io/github/license/BeaconFiHub/downloads?style=flat-square)](LICENSE)
 [![Latest Release](https://img.shields.io/github/v/release/BeaconFiHub/downloads?style=flat-square)](https://github.com/BeaconFiHub/downloads/releases)
 [![Tech Stack](https://img.shields.io/badge/Tech-React%20Native%20|%20Solidity-blue?style=flat-square)](https://github.com/BeaconFiHub/downloads)
-[![Join Community](https://img.shields.io/discord/您的DiscordID?label=Discord&logo=discord&style=flat-square)](您的 Discord 邀请链接)
+[![Join Community](https://img.shields.io/discord/您的DiscordID?label=Discord&logo=discord&style=flat-square)](https://github.com/BeaconFiHub/downloads)
 
 ---
 
